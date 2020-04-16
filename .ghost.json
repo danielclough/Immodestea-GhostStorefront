@@ -1,0 +1,10 @@
+{
+	"development": {
+	    "apiUrl": "https://immodestea.com",
+	    "contentApiKey": "cfca0d8fa7e2dd5106826ffa17",
+	},
+	"production": {
+	    "apiUrl": "https://immodestea.com",
+	    "contentApiKey": "cfca0d8fa7e2dd5106826ffa17",
+  }
+}
