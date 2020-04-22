@@ -46,7 +46,6 @@ const MainPageCarousel = (props) => {
                           key={index}
                           textColor={slide.textColor}
                           textBgColor={slide.textBgColor}
-                          padding={slide.padding}
                         />
                       );
                     } else {
@@ -83,7 +82,7 @@ const MainPageCarousel = (props) => {
         <ButtonBack
           aria-label={ariaBackButtonLabel}
           sx={{
-            display: ['none', 'block'],
+            display: ['block', 'block'],
             position: 'absolute',
             bottom: ['36%', '50%'],
             left: 1,
@@ -101,7 +100,7 @@ const MainPageCarousel = (props) => {
         <ButtonNext
           aria-label={ariaNextButtonLabel}
           sx={{
-            display: ['none', 'block'],
+            display: ['block', 'block'],
             position: 'absolute',
             bottom: ['36%', '50%'],
             right: 1,
@@ -118,10 +117,10 @@ const MainPageCarousel = (props) => {
 
         <DotGroup
           sx={{
-            display: ['none', 'block'],
+            display: ['none', 'none'],
             position: 'absolute',
             bottom: '10%',
-            left: ['40%', '45%'],
+            left: ['5%', '10%'],
             'z-index': '2',
             border: 0,
             bg: 'transparent',

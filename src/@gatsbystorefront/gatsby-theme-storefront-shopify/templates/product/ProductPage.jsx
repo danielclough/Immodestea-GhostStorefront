@@ -213,8 +213,8 @@ function ProductPage({ data, pageContext, location }) {
 
             <Flex mb={4}>
               <Box>
-                <Text>{paymentsLabel}</Text>
                 <Payments payments={payments} />
+                <Text>{paymentsLabel}</Text>
               </Box>
             </Flex>
 
@@ -249,7 +249,7 @@ function ProductPage({ data, pageContext, location }) {
                 <ShareButtons buttons={shareButtons} location={location.href} />
               </Box>
             </Flex>
-
+{/*
             {vendor ? (
               <Flex mb={4}>
                 <Box mr={2}>
@@ -270,7 +270,7 @@ function ProductPage({ data, pageContext, location }) {
               </Flex>
             ) : (
               ''
-            )}
+            )}*/}
       </CurrentImageContextProvider>
     </CurrentVariantContextProvider>
   );

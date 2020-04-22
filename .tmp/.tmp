@@ -1,0 +1,171 @@
+      
+########################
+### Main Collections ###
+########################
+    /collection/tea/
+    /collection/specials/
+    /collection/teaware/
+        /collection/teaware/2/
+    /collection/tickets/
+    /collection/vegas-roast/
+    /collection/smoked/
+    /collection/service/
+    /collection/yixing/
+    /collection/tea-1/
+        /collection/tea-1/2/
+        /collection/tea-1/3/
+
+########################
+### Specials ###
+########################
+
+
+
+########################
+### Tea Collections ###
+########################
+    /collection/chinese-greem/ ***
+chinese-white-yellow-tea
+Darjeeling
+light-wulong
+    /collection/dark-wulong/
+    /collection/chinese-wulong/
+    /collection/chinese-red/
+indian-black
+    /collection/chinese-black/
+chinese-flavored-tea
+all-flavored-tea
+
+    /collection/white-yellow/
+
+
+########################
+### Tea Collections ###
+########################
+tea-pots
+tea-cups
+chinese-style-wares
+japanese-style-wares
+euro-american-style-wares
+
+
+########################
+### Tea Products ###
+########################
+        ########################
+        ### Green Tea ###
+        ########################
+            /product/dragon-well/
+            /product/taiping-houkui-chinese-green/
+            /product/sheng-pu-er-green-pu-er/
+            /product/anji-baicha/
+
+        ########################
+        ### White Tea ###
+        ########################    
+            /product/aged-bai-mudan-chinese-white/
+            /product/silver-needles-chinese-white/
+
+        ########################
+        ### Wulong Tea ###
+        ########################
+            /product/ginseng-wulong-1/
+            /product/rou-gui/
+            /product/milk-wulong/
+            /product/local-roast-osmanthus-wulong/
+            /product/phoenix-wulong-dark-wulong/
+
+        ########################
+        ### Red Tea ###
+        ########################
+            /product/qimen-maofeng-10g/ ***
+            /product/sticky-rice-puer/
+            /product/local-roast/
+            /product/jin-jun-mei/
+            /product/yunnan-red/
+            /product/zheng-shan-xiao-zhong-fujian-china/
+            /product/golden-monkey-chinese-red/
+            /product/lapsang-souchong-chinese-red/
+
+        ########################
+        ### Fermented Tea ###
+        ########################
+            /product/shou-pu-er-black-pu-er/ ***
+            /product/shou-pu-chinese-black/
+
+        ########################
+        ### Flavored Tea ###
+        ########################
+            /product/nine-day-queen/
+            /product/earl-grey-supreme/ ***
+            /product/original-earl-grey/
+            /product/jasmine-tea-fuzhou-china/
+
+########################
+### Wares ###
+########################
+        ########################
+        ### Sets ###
+        ########################
+            /product/large-bamboo-wet-tray/
+            /product/gongfu-full-set/
+            /product/small-glass-pitcher/
+            /product/painted-pastel-cup-set/
+            /product/classic-brown-cup-set/
+
+        ########################
+        ### Pots ###
+        ########################
+            /product/glass-pot-elegant-arm/
+            /product/master-crafted-clay-pot/
+            /product/handmade-clay-pot-gold-pendant/
+            /product/slender-thorn-handmade-master-clay-pot/
+            /product/glass-teapot/
+
+        ########################
+        ### Cups ###
+        ########################
+            /product/fish-cups/
+            /product/strudy-blue-patterned-cup/
+            /product/layers-of-earth-cup/
+            /product/spotted-v-cup/
+            /product/tea-cup-muddled-v/
+            /product/molten-cup/
+            /product/fires-eye-cup/
+            /product/the-peacocking-cup/
+            /product/simple-stripes-cup/
+            /product/micro-chalice-cup/
+
+########################
+### Tea Events ###
+########################
+    /product/may-10th-tea-sound-meditation/
+    /product/japanese-tea-party/
+    /product/cup-of-tea/
+    /product/tea-tasting/
+    /product/social-tea-tasting/
+    /product/event-tea-service/
+    /product/festival-tea-service/
+    /product/love-feast/
+    /product/sound-tea-experience/
+
+
+
+
+########################
+### Random Collections ###
+########################
+    /collection/summerlin-library/
+        /collection/summerlin-library/2/
+    /collection/smoked-tea/
+
+########################
+### Random Products ###
+########################
+    /product/donate-towards-a-tea-tent/
+    /product/thank-you-for-your-generosity/
+    /product/cloth-bag/
+    /product/traditional-tin/
+    /product/you-know-what-you-want-offline/
+    /product/harney-iced-tin/
+    /product/teabag/

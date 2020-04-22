@@ -84,13 +84,13 @@ function Footer() {
                   // else use gatsby-link
                   if (validURL(link.link)) {
                     return (
-                      <Text key={index} mr={[3, 0]} my={[2, 0]}>
+                      <Text key={index} mr={[3, 0]} my={[2, 0]} fontSize={[1, 2]}>
                         <Link href={link.link}>{link.name}</Link>
                       </Text>
                     );
                   } else {
                     return (
-                      <Text key={index} mr={[3, 0]} my={[2, 0]}>
+                      <Text key={index} mr={[3, 0]} my={[2, 0]} fontSize={[1, 2]}>
                         <GatsbyLink to={link.link} sx={theme.variants.link}>
                           {link.name}
                         </GatsbyLink>
