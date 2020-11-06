@@ -37,7 +37,7 @@
     "eslint-plugin-react": "7.18.3"
   },
   "dependencies": {
-    "@gatsbystorefront/gatsby-theme-storefront-shopify": "^2.1.1",
+    "@gatsbystorefront/gatsby-theme-storefront-shopify": "^2.1.5",
     "@tryghost/helpers": "1.1.22",
     "@tryghost/helpers-gatsby": "1.0.25",
     "cheerio": "1.0.0-rc.3",
